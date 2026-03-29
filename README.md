@@ -1,4 +1,5 @@
 INVENTORY MONITORING SYSTEM
+
 A Java Spring Boot based Inventory Management System that helps businesses manage products, monitor stock levels, track inventory changes, and generate reports efficiently.
 
 This system provides role-based access control, low stock alerts, dashboard analytics, and exportable reports in CSV and PDF formats.
