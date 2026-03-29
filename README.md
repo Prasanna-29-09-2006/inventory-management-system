@@ -129,7 +129,7 @@ spring.datasource.username=root
 spring.datasource.password=yourpassword
 
 
- 4) Run the Application
+ 4) RUN THE APPLICATION
 
 Run the Spring Boot application:
 
