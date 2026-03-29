@@ -6,31 +6,31 @@ This system provides role-based access control, low stock alerts, dashboard anal
 
  FEATURES
  
-Secure Login Authentication
-Role-Based Access (Admin / User)
-Product Management (Add / Update / View Products)
-Stock Update Tracking
-Low Stock Detection
-Inventory Dashboard Analytics
-Stock Change Logs
-Export Reports (CSV / PDF)
-Automated Email Alerts for Low Stock
+Secure Login Authentication,
+Role-Based Access (Admin / User),
+Product Management (Add / Update / View Products),
+Stock Update Tracking,
+Low Stock Detection,
+Inventory Dashboard Analytics,
+Stock Change Logs,
+Export Reports (CSV / PDF),
+Automated Email Alerts for Low Stock.
 
 TECHNOLOGY STACK
  
 BACKEND
 
-Java
-Spring Boot
-Spring Security
-Spring Data JPA
+Java,
+Spring Boot,
+Spring Security,
+Spring Data JPA.
 
 FRONTEND
 
-Thymeleaf
-HTML
-CSS
-Bootstrap
+Thymeleaf,
+HTML,
+CSS,
+Bootstrap.
 
 DATABASE
 
@@ -38,11 +38,11 @@ MySQL
 
 TOOLS
 
-Maven
-Git & GitHub
-IntelliJ IDEA
-iText PDF
-OpenCSV
+Maven,
+Git & GitHub,
+IntelliJ IDEA,
+iText PDF,
+OpenCSV.
 
  PROJECT STRUCTURE
  
@@ -55,12 +55,12 @@ src └── main ├── java │ └── com.enterprise.inventory │ ├
 
 ### Admin Login
 
-Username: admin
+Username: admin,
 Password: admin123
 
 ### User Login
 
-Username: user1
+Username: user1,
 Password: admin123
 
 
