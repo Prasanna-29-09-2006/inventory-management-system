@@ -5,6 +5,7 @@ A Java Spring Boot based Inventory Management System that helps businesses manag
 This system provides role-based access control, low stock alerts, dashboard analytics, and exportable reports in CSV and PDF formats.
 
  FEATURES
+ 
 Secure Login Authentication
 Role-Based Access (Admin / User)
 Product Management (Add / Update / View Products)
@@ -14,26 +15,37 @@ Inventory Dashboard Analytics
 Stock Change Logs
 Export Reports (CSV / PDF)
 Automated Email Alerts for Low Stock
- TECHNOLOGY STACK
+
+TECHNOLOGY STACK
+ 
 BACKEND
+
 Java
 Spring Boot
 Spring Security
 Spring Data JPA
+
 FRONTEND
+
 Thymeleaf
 HTML
 CSS
 Bootstrap
+
 DATABASE
+
 MySQL
+
 TOOLS
+
 Maven
 Git & GitHub
 IntelliJ IDEA
 iText PDF
 OpenCSV
+
  PROJECT STRUCTURE
+ 
 src └── main ├── java │ └── com.enterprise.inventory │ ├── config │ ├── controller │ ├── entity │ ├── repository │ ├── security │ └── service │ └── resources ├── templates └── application.properties
 
 
